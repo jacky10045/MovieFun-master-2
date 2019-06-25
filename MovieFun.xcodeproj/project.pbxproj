@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -111,7 +111,6 @@
 				AE6CE848BEED70FA2DA26250 /* Pods-MovieFun.debug.xcconfig */,
 				1A7430A6D052A0C80D65C541 /* Pods-MovieFun.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -255,7 +254,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = "Tsung-Han Ho";
+				ORGANIZATIONNAME = Chiu;
 				TargetAttributes = {
 					7084BECB20E287B90076E51B = {
 						CreatedOnToolsVersion = 9.4.1;

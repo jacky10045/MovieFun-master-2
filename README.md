@@ -1,2 +1,2 @@
 # MovieFun
-![image](https://github.com/Mystes-CS/MovieFun/blob/master/Movie.gif)
+![image](https://github.com/jacky10045/MovieFun-master-2/blob/master/Movie.gif)
